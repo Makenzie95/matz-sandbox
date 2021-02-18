@@ -18,7 +18,7 @@
 -->
 <application xmlns="http://ns.adobe.com/air/application/32.0">
   <id>com.mcleodgaming.ssf2</id>
-  <versionNumber>001.240.002</versionNumber>
+  <versionNumber>001.000.000</versionNumber>
   <filename>Sandbox</filename>
   <description>Desc</description>
   <name>Sandbox</name>
@@ -33,7 +33,7 @@
     <renderMode>auto</renderMode>
     <maximizable>true</maximizable>
     <minimizable>true</minimizable>
-    <resizable>false</resizable>
+    <resizable>true</resizable>
   </initialWindow>
   <icon>
     <image16x16>icons/SBX16.png</image16x16>
